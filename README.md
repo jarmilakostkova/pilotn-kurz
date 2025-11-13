@@ -1,1 +1,1 @@
-# pilotn-kurz
+# pilotní-kurz
